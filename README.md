@@ -1,2 +1,2 @@
-# Modern UI designed Bank Application
+# Modern UI Bank Application
 Front end of a beautiful bank application.
